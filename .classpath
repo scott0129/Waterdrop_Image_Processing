@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/CPU-642/Dropbox/CompSci/Java/Libraries/opencv-331.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Users/CPU-642/Dropbox/CompSci/Java/Libraries/x64"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/CPU-642/Dropbox/CompSci/Java/Libraries/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/CPU-642/Dropbox/CompSci/Java/Libraries/Apache Poi/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/CPU-642/Dropbox/CompSci/Java/Libraries/Apache Poi/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/CPU-642/Dropbox/CompSci/Java/Libraries/Apache Poi/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/CPU-642/Dropbox/CompSci/Java/Libraries/Apache Poi/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/CPU-642/Dropbox/CompSci/Java/Libraries/Apache Poi/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/CPU-642/Dropbox/CompSci/Java/Libraries/Apache Poi/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/CPU-642/Dropbox/CompSci/Java/Libraries/Apache Poi/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/CPU-642/Dropbox/CompSci/Java/Libraries/Apache Poi/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/CPU-642/Dropbox/CompSci/Java/Libraries/Apache Poi/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/CPU-642/Dropbox/CompSci/Java/Libraries/Apache Poi/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/CPU-642/Dropbox/CompSci/Java/Libraries/Apache Poi/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/CPU-642/Dropbox/CompSci/Java/Libraries/Apache Poi/ooxml-lib/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/CPU-642/Dropbox/CompSci/Java/Libraries/Apache Poi/ooxml-lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
