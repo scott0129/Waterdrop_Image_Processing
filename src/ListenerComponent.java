@@ -13,7 +13,7 @@ public class ListenerComponent implements MouseListener {
 
 	@Override
 	public void mouseClicked(MouseEvent m) {
-		parentClass.setGroundLevel(m.getY() - 58);
+		parentClass.setGroundLevel(m.getY());
 		
 		System.out.println("clicked!");
 		

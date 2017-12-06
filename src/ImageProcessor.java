@@ -49,7 +49,7 @@ public class ImageProcessor {
     
     public static final double MASK_PERCENT = 0.95;
     
-    public final boolean quickTesting = false;
+    public final boolean quickTesting = true;
     
     public final boolean DEBUGGING = false;
     
